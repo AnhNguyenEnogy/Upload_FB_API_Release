@@ -1,0 +1,62 @@
+# =================================================================
+# STRICT SECURITY RULE: ZERO SOURCE CODE REPOSITORY
+# REPOSITORY NAY TUYET DOI KHONG CHUA SOURCE CODE
+# CHI DUNG DE CHUA MANIFEST CAP NHAT VA GOI DONG GOI
+# =================================================================
+
+# Block all source code files
+*.py
+*.pyw
+*.pyc
+*.pyo
+*.pyd
+*.c
+*.cpp
+*.h
+*.go
+*.rs
+*.ts
+*.tsx
+*.js
+*.jsx
+*.vue
+*.sh
+*.bat
+*.cmd
+*.ps1
+
+# Block source directories
+core/
+qt_ui/
+uploaders/
+workers/
+license_client/
+config/
+data/
+tests/
+scratch/
+ai_guidelines/
+DEBUG_GEM/
+.agent/
+.ai-memory/
+.codegraph/
+.venv/
+venv/
+__pycache__/
+build/
+dist/
+
+# Block sensitive data
+*.env
+*.pem
+*.key
+*.token
+*.log
+tokens.json
+user_data/
+logs/
+
+# Whitelist only update files
+!manifest.json
+!README.md
+!.gitignore
