@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "url": "https://github.com/AnhNguyenEnogy/Upload_FB_API_Release/releases/download/v1.8.1/VideoAutoUploader_v1.8.1.zip",
-  "sha256": "692b793b81365eac6c2a036790b3398beb541311fb9cc1921f423e7075d46a19",
-  "changelog": "Cập nhật v1.8.1:\n- Khắc phục triệt để lỗi bắt sai / nhầm Reel ID cũ khi đăng bài lên Meta Business Suite.\n- Lọc bỏ hoàn toàn các truy vấn bảng danh sách nội dung và thông báo cũ (blacklist feed queries).\n- Bắt buộc đối chiếu từ khóa mô tả (Caption keywords) trước khi chấp nhận Reel ID.\n- Reset sạch ID bài đăng và trạng thái Shopee khi nhân bản hoặc chạy lại tác vụ từ bản nháp cũ.\n- Thêm lớp chốt chặn bảo vệ trong luồng bình luận: tự động hủy bình luận nếu video hiển thị không đúng nội dung bài đăng mới."
+  "version": "1.0.0",
+  "url": "https://github.com/AnhNguyenEnogy/Upload_FB_API_Release/releases/download/v1.0.0/NTA_FB_API_v1.0.0.zip",
+  "sha256": "d7709e075353d5fd292cc82d9fa56851306c464f4f0770b725e594d7735557d2",
+  "changelog": "Phát hành phiên bản chính thức v1.0.0:\n- Tối ưu hóa toàn bộ giao diện quản lý tài khoản, Fanpage, Token và Nhóm.\n- Hỗ trợ đăng Reel và Video bài viết trực tiếp qua Facebook Graph API không cần mở trình duyệt.\n- Tích hợp hệ thống bản quyền phân quyền tự động, bảo mật cao cấp.\n- Cơ chế tự động cập nhật phần mềm không phụ thuộc file cấu hình ngoài."
 }
