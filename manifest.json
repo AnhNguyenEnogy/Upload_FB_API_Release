@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "url": "https://github.com/AnhNguyenEnogy/Upload_FB_API_Release/releases/download/v1.0.0/NTA_FB_API_v1.0.0.zip",
-  "sha256": "d7709e075353d5fd292cc82d9fa56851306c464f4f0770b725e594d7735557d2",
+  "sha256": "ff4b4ac9f8585b89574c05e64a468302eb6c44d431d9e4040b0c5d6f66b716e6",
   "changelog": "Phát hành phiên bản chính thức v1.0.0:\n- Tối ưu hóa toàn bộ giao diện quản lý tài khoản, Fanpage, Token và Nhóm.\n- Hỗ trợ đăng Reel và Video bài viết trực tiếp qua Facebook Graph API không cần mở trình duyệt.\n- Tích hợp hệ thống bản quyền phân quyền tự động, bảo mật cao cấp.\n- Cơ chế tự động cập nhật phần mềm không phụ thuộc file cấu hình ngoài."
 }
